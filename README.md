@@ -3,7 +3,7 @@
 - ⚡  Eu sou apenas um inciante.
 - ⚡  Aprendendo HTML, CSS. Python.
 
-<a href="https://https://github.com/wrmarcus12">
+<a href="github.com/wrmarcus12">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wrmarcus12&show_icons=true&theme=chartreuse-dark" />
 </a>
 <!-- <a href="https://github.com/anuraghazra/convoychat">
