@@ -1,6 +1,5 @@
 ### Oi, Eu sou o Marcus! 👋
 
-- ⚡  Eu sou apenas um inciante.
 - ⚡  Aprendendo HTML, CSS. E Python.
 
 <a href="https://github.com/wrmarcus12">
